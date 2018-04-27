@@ -1,6 +1,6 @@
 # HomeSecuritySystem
-A smart application built to keep homes safe using Face Recognition
-Project developed by Joel Jogy
+- A smart application built to keep homes safe using Face Recognition
+- Project developed by Joel Jogy
 
 ## Initialization 
 1. Upload 'home_security_system,sql' to your php database
